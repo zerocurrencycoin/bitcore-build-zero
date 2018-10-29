@@ -7,7 +7,7 @@ A helper to add tasks to gulp.
 Install with:
 
 ```sh
-npm install ProphetAlgorithms/bitcore-build-zero
+npm install zerocurrencycoin/bitcore-build-zero
 ```
 
 and use and require in your gulp file: 
